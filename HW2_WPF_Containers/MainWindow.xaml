@@ -1,0 +1,13 @@
+﻿<Window x:Class="HW2_WPF_Containers.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HW2_WPF_Containers"
+        mc:Ignorable="d"
+        Title="Вам нравится учиться?" Height="180" Width="350" MinHeight="180" MinWidth="350" MaxHeight="180" MaxWidth="350">
+    <Grid>
+        <Button Name="yesButton" Content="Да" HorizontalAlignment="Left" Margin="74,64,0,0" VerticalAlignment="Top" Width="62" Click="YesButton_Click"/>
+        <Button Panel.ZIndex="1" Name="noButton" Content="Нет" HorizontalAlignment="Left" Margin="190,64,0,0" VerticalAlignment="Top" Width="62" MouseMove="NoButton_MouseMove" />
+    </Grid>
+</Window>

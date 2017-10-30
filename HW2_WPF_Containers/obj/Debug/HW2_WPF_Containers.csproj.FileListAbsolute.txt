@@ -1,0 +1,13 @@
+Z:\WPF\WPFHomeworks\HW2_WPF_Containers\HW2_WPF_Containers\bin\Debug\HW2_WPF_Containers.exe.config
+Z:\WPF\WPFHomeworks\HW2_WPF_Containers\HW2_WPF_Containers\bin\Debug\HW2_WPF_Containers.exe
+Z:\WPF\WPFHomeworks\HW2_WPF_Containers\HW2_WPF_Containers\bin\Debug\HW2_WPF_Containers.pdb
+Z:\WPF\WPFHomeworks\HW2_WPF_Containers\HW2_WPF_Containers\obj\Debug\MainWindow.g.cs
+Z:\WPF\WPFHomeworks\HW2_WPF_Containers\HW2_WPF_Containers\obj\Debug\App.g.cs
+Z:\WPF\WPFHomeworks\HW2_WPF_Containers\HW2_WPF_Containers\obj\Debug\HW2_WPF_Containers_MarkupCompile.cache
+Z:\WPF\WPFHomeworks\HW2_WPF_Containers\HW2_WPF_Containers\obj\Debug\HW2_WPF_Containers_MarkupCompile.lref
+Z:\WPF\WPFHomeworks\HW2_WPF_Containers\HW2_WPF_Containers\obj\Debug\MainWindow.baml
+Z:\WPF\WPFHomeworks\HW2_WPF_Containers\HW2_WPF_Containers\obj\Debug\HW2_WPF_Containers.g.resources
+Z:\WPF\WPFHomeworks\HW2_WPF_Containers\HW2_WPF_Containers\obj\Debug\HW2_WPF_Containers.Properties.Resources.resources
+Z:\WPF\WPFHomeworks\HW2_WPF_Containers\HW2_WPF_Containers\obj\Debug\HW2_WPF_Containers.csproj.GenerateResource.Cache
+Z:\WPF\WPFHomeworks\HW2_WPF_Containers\HW2_WPF_Containers\obj\Debug\HW2_WPF_Containers.exe
+Z:\WPF\WPFHomeworks\HW2_WPF_Containers\HW2_WPF_Containers\obj\Debug\HW2_WPF_Containers.pdb
